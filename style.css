@@ -1,0 +1,33 @@
+@font-face {
+    font-family: inter;
+    src: url(fonts/Inter-Regular.ttf);
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+.div_box {
+    border-style: solid;
+    border-width: 1px;
+    border-color: #FF0000;
+    margin-top: 9px;
+    margin-left: 8px;
+    width: 550px;
+    height: 550px;
+}
+
+.p_inbox {
+    margin: 0;
+    font-family: inter;
+    color: #FF0000;
+    padding-top: 71px;
+    padding-left: 94px;
+    padding-right: 402px;
+    padding-bottom: 460px;
+    background-color: #F9DFDF;
+}
